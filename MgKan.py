@@ -1,6 +1,5 @@
 import marshal, base64, zlib
 
-# ဒီအောက်က Code အားလုံးကို အဆုံးအထိ ကူးပေးပါ
 data = (
     "eJzlfGlwHNeZWL/pnvvG4D7IJohrSOIkiIP3AIODIgnKBEiRoKjZIboBDAjMQN0zPGYHWkirrEGbFQ5K"
     "tAFb1Bpec9dQzJThsipi1spGIKkVN5tUDTTwYtQLZ1XO/limUhWI8oYU7Rzfe3MDQ4p2KkltBeR8/fp7"
